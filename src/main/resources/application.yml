@@ -1,0 +1,7 @@
+logging:
+  level:
+    org.apache.coyote: WARN
+    org.apache.tomcat: WARN
+    org.apache.catalina: WARN
+    org.springframework: WARN
+    root: DEBUG
